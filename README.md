@@ -5,7 +5,7 @@
 </p>
 
 > [!WARNING]
-> This is an early prototype. It is very unstable.
+> This is an early prototype. It is very unstable and annoying to use.
 
 Press and hold Fn to record, release to transcribe and paste. Enter your own groq api key and use. It also has an option to polish the transcript through another LLM. Wispr flow inspired.
 
@@ -59,3 +59,4 @@ MIT
 
 - [ ] non-existent UX for errors. silently fails if you don't have internet, etc.
 - [ ] audio ducking when activated.
+- [ ] does not disable when using fn with other keys (e.g fn+f1) 
